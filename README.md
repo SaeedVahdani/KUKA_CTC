@@ -1,2 +1,2 @@
-# KUKA_CTC
-KUKA_CTC
+# KUKA KR4
+Computed-Torque Controller Design
